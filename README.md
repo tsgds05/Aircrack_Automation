@@ -1,6 +1,6 @@
 # Aircrack_Automation
 Running all simple aircrack-ng commands with one click
-ALL OF THIS IS BY A BEGINNER
+
 
 Some Must haves to run 
 - Konsole
